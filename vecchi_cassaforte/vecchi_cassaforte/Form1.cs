@@ -37,7 +37,7 @@ namespace vecchi_cassaforte
             {
                 labelStato.Text = "Aperto";
             }
-            else 
+            else
             {
                 labelStato.Text = "Chiuso";
             }
@@ -53,6 +53,18 @@ namespace vecchi_cassaforte
         private void Form1_Load(object sender, EventArgs e)
         {
             cassaforte.Chiudi();
+            AggiornaForm();
+        }
+
+        private void buttonImpostaData_Click(object sender, EventArgs e)
+        {
+            cassaforte.ImpostaData(dateTimePickerProg.Value.ToString());
+
+        }
+
+        private void buttonApriProg_Click(object sender, EventArgs e)
+        {
+            cassaforte.ApriProg(Convert.ToInt32(textBoxCodUtente.Text), dateTimePickerOggi.Value.ToString(), dateTimePickerProg.Value.ToString());
             AggiornaForm();
         }
     }

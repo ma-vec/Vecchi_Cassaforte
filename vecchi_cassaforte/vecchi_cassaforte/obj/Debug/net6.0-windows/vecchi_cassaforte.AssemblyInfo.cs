@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("vecchi_cassaforte")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2107916e9129626945405fbb079db37715b9a78a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+07b488f0bb75f53e32fe312e7ab26298a1240f8e")]
 [assembly: System.Reflection.AssemblyProductAttribute("vecchi_cassaforte")]
 [assembly: System.Reflection.AssemblyTitleAttribute("vecchi_cassaforte")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

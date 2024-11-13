@@ -50,6 +50,19 @@ namespace vecchi_cassaforte
             get { return tentativi; }
         }
 
+        private string dataProg;
+        public string DataProg
+        {
+            get { return dataProg; }
+        }
+
+        private string dataOggi;
+        public string DataOggi
+        {
+            get { return dataOggi; }
+            set { dataOggi = value; }
+        }
+
         public void ImpostaCod(int newCode)
         {
             codiceUtente = newCode;
@@ -89,6 +102,20 @@ namespace vecchi_cassaforte
             {
                 tentativi = 0;
                 isOpen = true;
+            }
+        }
+
+        public void ImpostaData(string newData)
+        {
+
+            dataProg = newData;
+        }
+        
+        public void ApriProg(int codice, string dataOggi, string dataProg)
+        {
+            if (dataOggi == dataProg)
+            {
+                Apri(codice);
             }
         }
 

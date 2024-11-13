@@ -39,6 +39,12 @@
             labelImpostaFissa = new Label();
             textBoxImpostaCod = new TextBox();
             buttonImposta = new Button();
+            dateTimePickerProg = new DateTimePicker();
+            buttonImpostaData = new Button();
+            dateTimePickerOggi = new DateTimePicker();
+            label1 = new Label();
+            buttonApriProg = new Button();
+            label2 = new Label();
             SuspendLayout();
             // 
             // textBoxCodUtente
@@ -123,7 +129,9 @@
             // textBoxImpostaCod
             // 
             textBoxImpostaCod.Location = new Point(173, 334);
+            textBoxImpostaCod.MaxLength = 5;
             textBoxImpostaCod.Name = "textBoxImpostaCod";
+            textBoxImpostaCod.PasswordChar = '*';
             textBoxImpostaCod.Size = new Size(100, 23);
             textBoxImpostaCod.TabIndex = 9;
             // 
@@ -137,11 +145,69 @@
             buttonImposta.UseVisualStyleBackColor = true;
             buttonImposta.Click += buttonImposta_Click;
             // 
+            // dateTimePickerProg
+            // 
+            dateTimePickerProg.Location = new Point(45, 394);
+            dateTimePickerProg.Name = "dateTimePickerProg";
+            dateTimePickerProg.Size = new Size(228, 23);
+            dateTimePickerProg.TabIndex = 11;
+            // 
+            // buttonImpostaData
+            // 
+            buttonImpostaData.Location = new Point(527, 392);
+            buttonImpostaData.Name = "buttonImpostaData";
+            buttonImpostaData.Size = new Size(75, 23);
+            buttonImpostaData.TabIndex = 12;
+            buttonImpostaData.Text = "Imposta";
+            buttonImpostaData.UseVisualStyleBackColor = true;
+            buttonImpostaData.Click += buttonImpostaData_Click;
+            // 
+            // dateTimePickerOggi
+            // 
+            dateTimePickerOggi.Location = new Point(301, 394);
+            dateTimePickerOggi.Name = "dateTimePickerOggi";
+            dateTimePickerOggi.Size = new Size(211, 23);
+            dateTimePickerOggi.TabIndex = 13;
+            // 
+            // label1
+            // 
+            label1.AutoSize = true;
+            label1.Location = new Point(45, 420);
+            label1.Name = "label1";
+            label1.Size = new Size(107, 15);
+            label1.TabIndex = 14;
+            label1.Text = "Data Programmata";
+            // 
+            // buttonApriProg
+            // 
+            buttonApriProg.Location = new Point(664, 392);
+            buttonApriProg.Name = "buttonApriProg";
+            buttonApriProg.Size = new Size(75, 23);
+            buttonApriProg.TabIndex = 15;
+            buttonApriProg.Text = "Apri";
+            buttonApriProg.UseVisualStyleBackColor = true;
+            buttonApriProg.Click += buttonApriProg_Click;
+            // 
+            // label2
+            // 
+            label2.AutoSize = true;
+            label2.Location = new Point(301, 426);
+            label2.Name = "label2";
+            label2.Size = new Size(60, 15);
+            label2.TabIndex = 16;
+            label2.Text = "Data Oggi";
+            // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(800, 450);
+            Controls.Add(label2);
+            Controls.Add(buttonApriProg);
+            Controls.Add(label1);
+            Controls.Add(dateTimePickerOggi);
+            Controls.Add(buttonImpostaData);
+            Controls.Add(dateTimePickerProg);
             Controls.Add(buttonImposta);
             Controls.Add(textBoxImpostaCod);
             Controls.Add(labelImpostaFissa);
@@ -173,5 +239,11 @@
         private Label labelImpostaFissa;
         private TextBox textBoxImpostaCod;
         private Button buttonImposta;
+        private DateTimePicker dateTimePickerProg;
+        private Button buttonImpostaData;
+        private DateTimePicker dateTimePickerOggi;
+        private Label label1;
+        private Button buttonApriProg;
+        private Label label2;
     }
 }
