@@ -1,0 +1,17 @@
+C:\Users\vecchi.21208\Vecchi_Cassaforte\vecchi_cassaforte\vecchi_cassaforte\bin\Debug\net6.0-windows\vecchi_cassaforte.exe
+C:\Users\vecchi.21208\Vecchi_Cassaforte\vecchi_cassaforte\vecchi_cassaforte\bin\Debug\net6.0-windows\vecchi_cassaforte.deps.json
+C:\Users\vecchi.21208\Vecchi_Cassaforte\vecchi_cassaforte\vecchi_cassaforte\bin\Debug\net6.0-windows\vecchi_cassaforte.runtimeconfig.json
+C:\Users\vecchi.21208\Vecchi_Cassaforte\vecchi_cassaforte\vecchi_cassaforte\bin\Debug\net6.0-windows\vecchi_cassaforte.dll
+C:\Users\vecchi.21208\Vecchi_Cassaforte\vecchi_cassaforte\vecchi_cassaforte\bin\Debug\net6.0-windows\vecchi_cassaforte.pdb
+C:\Users\vecchi.21208\Vecchi_Cassaforte\vecchi_cassaforte\vecchi_cassaforte\obj\Debug\net6.0-windows\vecchi_cassaforte.Form1.resources
+C:\Users\vecchi.21208\Vecchi_Cassaforte\vecchi_cassaforte\vecchi_cassaforte\obj\Debug\net6.0-windows\vecchi_cassaforte.csproj.GenerateResource.cache
+C:\Users\vecchi.21208\Vecchi_Cassaforte\vecchi_cassaforte\vecchi_cassaforte\obj\Debug\net6.0-windows\vecchi_cassaforte.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vecchi.21208\Vecchi_Cassaforte\vecchi_cassaforte\vecchi_cassaforte\obj\Debug\net6.0-windows\vecchi_cassaforte.AssemblyInfoInputs.cache
+C:\Users\vecchi.21208\Vecchi_Cassaforte\vecchi_cassaforte\vecchi_cassaforte\obj\Debug\net6.0-windows\vecchi_cassaforte.AssemblyInfo.cs
+C:\Users\vecchi.21208\Vecchi_Cassaforte\vecchi_cassaforte\vecchi_cassaforte\obj\Debug\net6.0-windows\vecchi_cassaforte.csproj.CoreCompileInputs.cache
+C:\Users\vecchi.21208\Vecchi_Cassaforte\vecchi_cassaforte\vecchi_cassaforte\obj\Debug\net6.0-windows\vecchi_cassaforte.sourcelink.json
+C:\Users\vecchi.21208\Vecchi_Cassaforte\vecchi_cassaforte\vecchi_cassaforte\obj\Debug\net6.0-windows\vecchi_cassaforte.dll
+C:\Users\vecchi.21208\Vecchi_Cassaforte\vecchi_cassaforte\vecchi_cassaforte\obj\Debug\net6.0-windows\refint\vecchi_cassaforte.dll
+C:\Users\vecchi.21208\Vecchi_Cassaforte\vecchi_cassaforte\vecchi_cassaforte\obj\Debug\net6.0-windows\vecchi_cassaforte.pdb
+C:\Users\vecchi.21208\Vecchi_Cassaforte\vecchi_cassaforte\vecchi_cassaforte\obj\Debug\net6.0-windows\vecchi_cassaforte.genruntimeconfig.cache
+C:\Users\vecchi.21208\Vecchi_Cassaforte\vecchi_cassaforte\vecchi_cassaforte\obj\Debug\net6.0-windows\ref\vecchi_cassaforte.dll

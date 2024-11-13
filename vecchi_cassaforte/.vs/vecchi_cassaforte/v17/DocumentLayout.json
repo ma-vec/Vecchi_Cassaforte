@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vecchi.21208\\Vecchi_Cassaforte\\vecchi_cassaforte\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{01E1657C-A493-4E05-8537-17F35422AAD7}|vecchi_cassaforte\\vecchi_cassaforte.csproj|c:\\users\\vecchi.21208\\vecchi_cassaforte\\vecchi_cassaforte\\vecchi_cassaforte\\cassaforte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01E1657C-A493-4E05-8537-17F35422AAD7}|vecchi_cassaforte\\vecchi_cassaforte.csproj|solutionrelative:vecchi_cassaforte\\cassaforte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01E1657C-A493-4E05-8537-17F35422AAD7}|vecchi_cassaforte\\vecchi_cassaforte.csproj|c:\\users\\vecchi.21208\\vecchi_cassaforte\\vecchi_cassaforte\\vecchi_cassaforte\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01E1657C-A493-4E05-8537-17F35422AAD7}|vecchi_cassaforte\\vecchi_cassaforte.csproj|solutionrelative:vecchi_cassaforte\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01E1657C-A493-4E05-8537-17F35422AAD7}|vecchi_cassaforte\\vecchi_cassaforte.csproj|c:\\users\\vecchi.21208\\vecchi_cassaforte\\vecchi_cassaforte\\vecchi_cassaforte\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{01E1657C-A493-4E05-8537-17F35422AAD7}|vecchi_cassaforte\\vecchi_cassaforte.csproj|solutionrelative:vecchi_cassaforte\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\vecchi.21208\\Vecchi_Cassaforte\\vecchi_cassaforte\\vecchi_cassaforte\\Form1.cs",
+              "RelativeDocumentMoniker": "vecchi_cassaforte\\Form1.cs",
+              "ToolTip": "C:\\Users\\vecchi.21208\\Vecchi_Cassaforte\\vecchi_cassaforte\\vecchi_cassaforte\\Form1.cs",
+              "RelativeToolTip": "vecchi_cassaforte\\Form1.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwBEAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T11:58:46.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Cassaforte.cs",
+              "DocumentMoniker": "C:\\Users\\vecchi.21208\\Vecchi_Cassaforte\\vecchi_cassaforte\\vecchi_cassaforte\\Cassaforte.cs",
+              "RelativeDocumentMoniker": "vecchi_cassaforte\\Cassaforte.cs",
+              "ToolTip": "C:\\Users\\vecchi.21208\\Vecchi_Cassaforte\\vecchi_cassaforte\\vecchi_cassaforte\\Cassaforte.cs",
+              "RelativeToolTip": "vecchi_cassaforte\\Cassaforte.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAmwEkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T11:15:25.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Progettazione]",
+              "DocumentMoniker": "C:\\Users\\vecchi.21208\\Vecchi_Cassaforte\\vecchi_cassaforte\\vecchi_cassaforte\\Form1.cs",
+              "RelativeDocumentMoniker": "vecchi_cassaforte\\Form1.cs",
+              "ToolTip": "C:\\Users\\vecchi.21208\\Vecchi_Cassaforte\\vecchi_cassaforte\\vecchi_cassaforte\\Form1.cs [Progettazione]",
+              "RelativeToolTip": "vecchi_cassaforte\\Form1.cs [Progettazione]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T11:12:20.054Z",
+              "EditorCaption": " [Progettazione]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
